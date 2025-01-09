@@ -3,6 +3,8 @@ Tests of cross-section dependence for panel models Use pcdtest (plm) With (In) R
 
 Pesaran's CD or Breusch–Pagan's LM (local or global) tests for cross sectional dependence in panel models Use pcdtest (plm) With (In) R Software
 
+https://www.youtube.com/watch?v=ABlj3znVr4E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
